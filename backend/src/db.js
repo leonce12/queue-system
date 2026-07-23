@@ -12,7 +12,6 @@ const DEPARTMENTS = [
   { id: "physiotherapy", code: "PHY", name: "Physiotherapy" },
 ];
 
-// Consultation rooms, per department. Edit freely to match real room names.
 const ROOMS_BY_DEPARTMENT = {
   general: ["Room 1", "Room 2", "Room 3", "Room 4"],
   dental: ["Room 1"],
