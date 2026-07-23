@@ -238,7 +238,7 @@ export default function Login({ onLogin }) {
           following numbers:
         </p>
         <ul className="login-hero__info-list">
-          <li>📱 +254 798 294 538</li>
+          <li>☎️ +254 798 294 538</li>
           <li>☎️ +254 730 116 760 / 761 / 762 / 271</li>
         </ul>
       </div>
